@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Halil Bulut</h1>
-<h3 align="center">Fullstack Developer, Associate Degree in Computer Programming</h3>
+<h3 align="center">Fullstack .Net/React Developer, Associate Degree in Computer Programming</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
